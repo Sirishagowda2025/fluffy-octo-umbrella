@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I’m currently working on **AI Calling Agent**<br><br>- 🌱 I’m currently learning **Python, SQL, LLM Prompt Engineering, Product Thinking, Power BI**<br><br>- 👯 I’m looking to collaborate on **AI product prototypes, LLM workflows, and analytics dashboards project link**<br><br>- 🤝 I’m looking for help with **Scaling AI workflows & real-world deployment project link**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Sirishagowda2025](https://github.com/Sirishagowda2025)<br><br>- 💬 Ask me about **AI Prototyping, No-Code AI, Power BI Dashboards, Prompt Engineering**<br><br>- 📫 How to reach me **sirishadsirishad6@gmail.com**<br><br>- ⚡ Fun fact **I build fast prototypes that actually work.**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sirisha-d/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sirishadsirishad6@gmail.com) 
@@ -8,8 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sirishagowda2025&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sirishagowda2025&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirishagowda2025&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
