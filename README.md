@@ -1,32 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sirisha D</h1>
-<h3 align="center">Aspiring AI Product & Data Analyst | Turning ideas into working AI prototypes</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirishagowda2025&label=Profile%20views&color=0e75b6&style=flat" alt="sirishagowda2025" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirishagowda2025" alt="sirishagowda2025" /></a> </p>
-
-
-- 🔭 I’m currently working on **AI Calling Agent**
-
-- 🌱 I’m currently learning **Python, SQL, LLM Prompt Engineering, Product Thinking, Power BI**
-
-- 👯 I’m looking to collaborate on **AI product prototypes, LLM workflows, and analytics dashboards project link**
-
-- 🤝 I’m looking for help with **Scaling AI workflows & real-world deployment project link**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sirishagowda2025](https://github.com/Sirishagowda2025)
-
-- 💬 Ask me about **AI Prototyping, No-Code AI, Power BI Dashboards, Prompt Engineering**
-
-- 📫 How to reach me **sirishadsirishad6@gmail.com**
-
-- ⚡ Fun fact **I build fast prototypes that actually work.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sirisha-d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sirisha-d/" height="30" width="40" /></a>
-</p>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sirisha-d/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sirishadsirishad6@gmail.com) 
@@ -42,6 +13,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirishagowda2025&show_icons=true&locale=en" alt="sirishagowda2025" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirishagowda2025&" alt="sirishagowda2025" /></p>
