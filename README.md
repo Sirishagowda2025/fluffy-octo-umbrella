@@ -1,4 +1,13 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Sirisha D</h1>
+<h3 align="center">Aspiring AI Product & Data Analyst | Turning ideas into working AI prototypes</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirishagowda2025&label=Profile%20views&color=0e75b6&style=flat" alt="sirishagowda2025" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirishagowda2025" alt="sirishagowda2025" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 🔭 I’m currently working on **AI Calling Agent**<br><br>- 🌱 I’m currently learning **Python, SQL, LLM Prompt Engineering, Product Thinking, Power BI**<br><br>- 👯 I’m looking to collaborate on **AI product prototypes, LLM workflows, and analytics dashboards project link**<br><br>- 🤝 I’m looking for help with **Scaling AI workflows & real-world deployment project link**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Sirishagowda2025](https://github.com/Sirishagowda2025)<br><br>- 💬 Ask me about **AI Prototyping, No-Code AI, Power BI Dashboards, Prompt Engineering**<br><br>- 📫 How to reach me **sirishadsirishad6@gmail.com**<br><br>- ⚡ Fun fact **I build fast prototypes that actually work.**
 
 
